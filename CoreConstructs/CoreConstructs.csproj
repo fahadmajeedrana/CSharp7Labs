@@ -46,8 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Car.cs" />
     <Compile Include="CodeConstructPart1.cs" />
     <Compile Include="CodeConstructPart2.cs" />
+    <Compile Include="Garage.cs" />
     <Compile Include="OOPPillars.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
