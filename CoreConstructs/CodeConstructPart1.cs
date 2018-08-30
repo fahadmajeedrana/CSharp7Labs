@@ -67,9 +67,7 @@ namespace CoreConstructs
                     Console.WriteLine("You Selected C#");
                     break;
             }
-
-
-            Console.ReadLine();
+            
         }
     }
 }
